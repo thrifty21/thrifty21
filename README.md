@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Anton Reva
-I'm a software engineer currently in a apprenticeship level 6 with 3+ years of experience.
+I'm a software engineer currently in a apprenticeship level 6 with 3+ years of programming experience.
 
 ## 🧰 Skills
 - **Languages:** Python, JavaScript, linux, Yaml
@@ -9,7 +9,12 @@ I'm a software engineer currently in a apprenticeship level 6 with 3+ years of e
 ## 📂 Projects
 
 ## 🏆 Achievements
-- Certifications: BCS Network Fundamentals, Software developer level 4, BCS network Security, Cloud fundamentals, Level 3 Infrastructure engineer apprenticeship, Palo alto EDU-210 firewall essentials: Configurations and Management 
+- Certifications: BCS Network Fundamentals,
+- Software developer level 4,
+- BCS network Security,
+- Cloud fundamentals,
+- Level 3 Infrastructure engineer apprenticeship,
+- Palo alto EDU-210 firewall essentials: Configurations and Management 
 
 ## 📫 Contact
 - [LinkedIn] www.linkedin.com/in/anton-r-504464170?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
